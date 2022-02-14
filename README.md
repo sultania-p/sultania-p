@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @sultania-p. I am a graduate student in Information Systems at Northeastern University, Boston having profound insightful experience in delivering an IT landscape that aligns with the business objectives along with upholding partnership between business requirements and technology delivery. I have leveraged my sound understanding of system architecture, databases, and analytics to translate business requirements into detailed designs. 
 
-• 6 years of IT experience as Senior Technology Analyst/Data Analyst with proven excellence in Application Development, SQL Development, Data Modeling, Database Architecture, SAP HANA, SAP Data Services, Database Warehousing & Analytics & Visualization Applications.
+  • 6 years of IT experience as Senior Technology Analyst/Data Analyst with proven excellence in Application Development, SQL Development, Data Modeling, Database Architecture, SAP HANA, SAP Data Services, Database Warehousing & Analytics & Visualization Applications.
 
-• Proficient in providing Technical Design and Architectural Leadership to multiple teams & projects to help ensure applications are integrated and adhered to stated architectural and design principles & standards.
+  • Proficient in providing Technical Design and Architectural Leadership to multiple teams & projects to help ensure applications are integrated and adhered to stated architectural and design principles & standards.
 
-• Experience in managing solution implementation projects, including requirement analysis, architectural design, creating POC, preparing/reviewing estimation, code review, implementation, impact analysis, testing, deployment, and maintenance.
+  • Experience in managing solution implementation projects, including requirement analysis, architectural design, creating POC, preparing/reviewing estimation, code review, implementation, impact analysis, testing, deployment, and maintenance.
 
-• Strong educational background with a Bachelor's degree from Uttarakhand Technical University (UTU), Uttarakhand.
+  • Strong educational background with a Bachelor's degree from Uttarakhand Technical University (UTU), Uttarakhand.
 
   Programming Languages: Python (NumPy, Pandas), Java, SQL, T-SQL, Unix
   IDE and Frameworks: AWS, IntelliJ, NetBeans 12.0
