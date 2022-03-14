@@ -20,8 +20,8 @@ A Data analyst passionate about Data Science 📊. I like analysing data and pro
  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/python.svg" width="70" height="40" style="padding-left:10px;"/>
  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/git.svg" width="70" height="40" style="padding-left:10px;"/>
  <img title="R" alt="R" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/r-lang.svg" width="70" height="40" style="padding-left:10px;" />
- <img title="R" alt="SQL" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/database.svg" width="70" height="40" style="padding-left:10px;" />
- <img title="R" alt="SAP" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/sap-vector-logo.svg" width="70" height="40" style="padding-left:10px;" />	
+ <img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/database.svg" width="70" height="40" style="padding-left:10px;" />
+ <img title="SAP" alt="SAP" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/sap-vector-logo.svg" width="70" height="40" style="padding-left:10px;" />	
 	
 </p>
 
