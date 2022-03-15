@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Piyush Kumar Sultania. 
  
-A Data analyst passionate about Data Science 📊. I like analysing data and providing insights to improve business performance and efficiency. I have 6 years of IT experience as Senior Technology Analyst/Data Analyst with proven excellence in Application Development, SQL Development, Data Modeling, Database Architecture, SAP HANA, SAP Data Services, Database Warehousing & Analytics & Visualization Applications.
+A Data analyst passionate about Data Engineering 📊. I like analysing data and providing insights to improve business performance and efficiency. I have 6 years of IT experience as Senior Technology Analyst/Data Analyst with proven excellence in Application Development, SQL Development, Data Modeling, Database Architecture, SAP HANA, SAP Data Services, Database Warehousing & Analytics & Visualization Applications.
 
 - 👀 I always aspire to learn new technologies and improve my knowledge base one day at a time. I like learning and working on data modeling, warehousing, analytics and visualization.
 - 💡  I'm interested in many things like: **Data Engineering and Data Science**
