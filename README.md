@@ -1,18 +1,18 @@
 ### 👋 Hi there, I’m Piyush Kumar Sultania. 
  
-A Data analyst passionate about Data Engineering 📊. I like analysing data and providing insights to improve business performance and efficiency. I have 6 years of IT experience as Senior Technology Analyst/Data Analyst with proven excellence in Application Development, SQL Development, Data Modeling, Database Architecture, SAP HANA, SAP Data Services, Database Warehousing & Analytics & Visualization Applications.
+A Data analyst passionate about Data Engineering 📊. I like analysing data and providing insights to improve business performance and efficiency. I have 6 years of IT experience as Technology/Data Analyst with proven excellence in application development, database architecture, data warehousing, analytics & reporting solutions. I am highly proficient in SQL, Python, Data architecture and ETL solutions.
 
 - 👀 I always aspire to learn new technologies and improve my knowledge base one day at a time. I like learning and working on data modeling, warehousing, analytics and visualization.
-- 💡  I'm interested in many things like: **Data Engineering and Data Science**
+- 💡  I'm interested in many things like: **Data Engineering and Data Analytics**
 - 🌱 I am currently ppursuing **Masters in Information Systems program at Northeastern University, Boston** 
-- 💞️ I’m looking to collaborate on data science projects to give me real life experiences on predictive analytics using machine learning models.
-- 📫 If you have any such opportunity, please feel free to reach me at piyushsltn4@gmail.com.
+- 💞️ I’m looking to collaborate on data engineering projects to give me real life experiences on building data pipelines and providing visualizations and analytics solutions for business decision-making.
+- 📫 If you have any such opportunity, please feel free to reach me at sultania.p@northeastern.edu.
 - 👨‍🔬 I'm currently learning:
     - [ ] Programming
       - [ ]  Python
-      - [ ]  R
-    - [ ] Data Science
-      - [ ]  Machine Learning
+    - [ ] Data Engineering
+      - [ ]  Big Data - Hadoop
+      - [ ]  AWS
 
 ### My skills include
 
