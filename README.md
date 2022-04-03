@@ -33,6 +33,7 @@ A Data analyst passionate about Data Engineering 📊. I like analysing data and
 [![website](./img/github-light.svg)](https://github.com/sultania-p#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/sultania-p#gh-dark-mode-only)
 &nbsp;&nbsp;
+<a target="_blank" href="https://piyushsltn4.wixsite.com/piyush-sultania/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
 <a target="_blank" href="mailto:piyushsltn4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 [linkedin]: https://linkedin.com/in/piyush-sultania
