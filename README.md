@@ -4,7 +4,7 @@ A Data analyst passionate about Data Engineering 📊. I like analysing data and
 
 - 👀 I always aspire to learn new technologies and improve my knowledge base one day at a time. I like learning and working on data modeling, warehousing, analytics and visualization.
 - 💡  I'm interested in many things like: **Data Engineering and Data Analytics**
-- 🌱 I am currently ppursuing **Masters in Information Systems program at Northeastern University, Boston** 
+- 🌱 I am currently pursuing **Masters in Information Systems program at Northeastern University, Boston** 
 - 💞️ I’m looking to collaborate on data engineering projects to give me real life experiences on building data pipelines and providing visualizations and analytics solutions for business decision-making.
 - 📫 If you have any such opportunity, please feel free to reach me at sultania.p@northeastern.edu.
 - 👨‍🔬 I'm currently learning:
