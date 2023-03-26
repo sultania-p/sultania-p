@@ -25,6 +25,7 @@ A Data analyst passionate about Data Engineering 📊. I like analysing data and
  <img title="SAP" alt="SAP" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/sap-vector-logo.svg" width="70" height="40" style="padding-left:10px;" />	
  <img title="Alteryx" alt="Alteryx" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/alteryx.png" width="70" height="40" style="padding-left:10px;" />
  <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/tableau.png" width="70" height="40" style="padding-left:10px;" />
+ <img title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/mongo.png" width="80" height="40" style="padding-left:10px;" />
 </p>
 
 ### Connect with me:
