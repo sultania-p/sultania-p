@@ -19,10 +19,12 @@ A Data analyst passionate about Data Engineering 📊. I like analysing data and
 <p align="center">
  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/python.svg" width="70" height="40" style="padding-left:10px;"/>
  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/git.svg" width="70" height="40" style="padding-left:10px;"/>
- <img title="R" alt="R" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/r-lang.svg" width="70" height="40" style="padding-left:10px;" />
+ <img title="Power BI" alt="Power BI" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/powerbi.png" width="70" height="40" style="padding-left:10px;" />
+ <img title="Talend" alt="Talend" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/tlnd.png" width="70" height="40" style="padding-left:10px;" />
  <img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/database.svg" width="70" height="40" style="padding-left:10px;" />
  <img title="SAP" alt="SAP" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/sap-vector-logo.svg" width="70" height="40" style="padding-left:10px;" />	
-	
+ <img title="Alteryx" alt="Alteryx" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/alteryx.png" width="70" height="40" style="padding-left:10px;" />
+ <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/tableau.png" width="70" height="40" style="padding-left:10px;" />
 </p>
 
 ### Connect with me:
