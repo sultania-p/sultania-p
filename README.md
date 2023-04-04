@@ -10,6 +10,8 @@ A Data analyst passionate about Data Engineering 📊. I like analysing data and
 - 👨‍🔬 I'm currently learning:
     - [ ] Programming
       - [ ]  Python
+      - [ ]  JavaScript
+      - [ ]  HTML, CSS
     - [ ] Data Engineering
       - [ ]  Big Data - Hadoop
       - [ ]  AWS
