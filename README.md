@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Piyush Kumar Sultania. 
+# 👋 Hi there, I’m Piyush Kumar Sultania. 
  
 A Data analyst passionate about Data Engineering 📊. I like analysing data and providing insights to improve business performance and efficiency. I have 6 years of IT experience as Technology/Data Analyst with proven excellence in application development, database architecture, data warehousing, analytics & reporting solutions. I am highly proficient in SQL, Python, Data architecture and ETL solutions.
 
@@ -16,7 +16,7 @@ A Data analyst passionate about Data Engineering 📊. I like analysing data and
       - [ ]  Big Data - Hadoop
       - [ ]  AWS
 
-### My skills include
+# My skills include
 
 <p align="center">
  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/python.svg" width="70" height="40" style="padding-left:10px;"/>
@@ -30,7 +30,7 @@ A Data analyst passionate about Data Engineering 📊. I like analysing data and
  <img title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/sultania-p/sultania-p/main/assets/mongo.png" width="80" height="40" style="padding-left:10px;" />
 </p>
 
-### Connect with me:
+# Connect with me:
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/piyush-sultania#gh-dark-mode-only)
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/piyush-sultania#gh-light-mode-only)
@@ -53,9 +53,13 @@ A Data analyst passionate about Data Engineering 📊. I like analysing data and
  
 </p>
 
-<hr>
+
 <br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sultania-p&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sultania-p&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sultania-p&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!---
 sultania-p/sultania-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
