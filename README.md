@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Piyush Kumar Sultania. 
  
-A Data analyst passionate about Data Engineering 📊. I like analysing data and providing insights to improve business performance and efficiency. I have 6 years of IT experience as Data Engineer with proven excellence in application development, data modeling, data warehousing, analytics & reporting solutions. I am highly proficient in SQL, Python, Data architecture and ETL solutions.
+A Data analyst passionate about Data Engineering 📊. I like analysing data and providing insights to improve business performance and efficiency. I have 6.5 years of IT experience as Data Engineer and Analyst with proven excellence in application development, data modeling, data warehousing, analytics & reporting solutions. I am highly proficient in SQL, Python, Data architecture and ETL solutions.
 
 - 👀 I always aspire to learn new technologies and improve my knowledge base one day at a time. I like learning and working on data modeling, warehousing, analytics and visualization.
 - 💡 I'm interested in many things like: **Data Engineering and Analytics**
