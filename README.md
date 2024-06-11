@@ -1,18 +1,17 @@
 # 👋 Hi there, I’m Piyush Kumar Sultania. 
  
-A Data analyst passionate about Data Engineering 📊. I like building and maintaining data pipelines, analysing data and providing insights to improve business performance and efficiency. I have 6.5 years of IT experience as Data Engineer and Analyst with proven excellence in application development, data modeling, data warehousing, analytics & reporting solutions. I am highly proficient in SQL, Python, Data architecture and ETL solutions.
+A Data engineer passionate about Software Engineering 📊. I like building and maintaining software applications, data pipelines, analysing data and providing insights to improve business performance and efficiency. I have 7 years of IT experience as Data Engineer and Analyst with proven excellence in application development, data modeling, data warehousing, analytics & reporting solutions. I am highly proficient in SQL, Python, Data architecture and ETL solutions.
 
 - 👀 I always aspire to learn new technologies and improve my knowledge base one day at a time. I like learning and working on data modeling, warehousing, analytics and visualization.
-- 💡 I'm interested in many things like: **Data Engineering and Analytics**
+- 💡 I'm interested in many things like: **Software and Application Development**
 - 🌱 I have completed my **Masters in Information Systems program from Northeastern University, Boston** 
 - 💞️ I’m looking to collaborate on data engineering projects to give me real life experiences on building data pipelines and providing visualizations and analytics solutions for business decision-making.
 - 📫 If you have any such opportunity, please feel free to reach me at sultania.p@northeastern.edu.
 - 👨‍🔬 I'm currently learning:
     - [ ] Programming
       - [ ]  JavaScript
-      - [ ]  HTML, CSS
-    - [ ] Data Engineering
-      - [ ]  Big Data - Hadoop
+      - [ ]  HTML, CSS, React, Angular
+
 
 # 💻 Tech Stack:
 
